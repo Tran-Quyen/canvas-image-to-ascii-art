@@ -3,7 +3,7 @@ This is image to ascii art using canvas 2D basic
 
 #### ❄️Author: Quyen Dang
 
-#### ⏰Created at 04-06-2022
+#### ⏰Created at 15-06-2022
 
 #### 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJS/
 
